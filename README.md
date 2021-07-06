@@ -1,4 +1,3 @@
 # portal-it115
-An example portal page
 
-Please feel free to use the HMTL/CSS and JS in this repo as you wish!
+This is the wrong branch! Please go to the other one for the deployment.
